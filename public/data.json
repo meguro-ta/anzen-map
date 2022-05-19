@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J101",
+  "range": "'スポットデータ'!A1:J104",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -13,6 +13,33 @@
       "Instagram",
       "Twitter",
       "公式サイト"
+    ],
+    [
+      "2022/05/19 12:01:21",
+      "危険箇所",
+      "https://github.com/meguro-ta/anzen-map/blob/master/public/gakkouyoko.png?raw=true",
+      "35.694057",
+      "139.780732",
+      "学校の横",
+      "見通しが悪い"
+    ],
+    [
+      "2022/05/19 12:03:50",
+      "危険箇所",
+      "https://github.com/meguro-ta/anzen-map/blob/master/public/seveneleven.png?raw=true",
+      "35.695491",
+      "139.779636",
+      "セブンイレブン前",
+      "テスト用"
+    ],
+    [
+      "2022/05/19 12:05:51",
+      "事故箇所",
+      "https://github.com/meguro-ta/anzen-map/blob/master/public/lawson.png?raw=true",
+      "35.695562",
+      "139.777856",
+      "ローソン",
+      "ローソンの前です"
     ]
   ]
 }
