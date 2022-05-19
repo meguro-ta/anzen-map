@@ -2,7 +2,7 @@
   "title": "道祖土小学校安全マップ",
   "description": "道祖土小学校周辺の危険箇所をまとめよう",
   "form_url": "",
-  "logo_image_url": "https://geoloniamaps.github.io/pwamap/icon-pwamap.svg",
+  "logo_image_url": "https://github.com/meguro-ta/anzen-map/blob/master/kousho.svg",
   "background_image_url": "https://geoloniamaps.github.io/pwamap/geolonia_bgimage_1920_1080.png",
   "primary_color": "#d2691e"
 }
