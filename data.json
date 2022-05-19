@@ -25,6 +25,15 @@
       "",
       "geoloniamap",
       "https://geolonia.com"
+    ],
+    [
+      "",
+      "危険箇所",
+      "https://meguro-ta.github.io/anzen-map/gakkouyoko.png",
+      "35.694057",
+      "139.46506",
+      "学校の横",
+      "見通しが悪く、短い信号なので無視する人も多い"
     ]
   ]
 }
