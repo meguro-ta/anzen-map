@@ -1,7 +1,7 @@
 {
   "title": "道祖土小学校安全マップ",
   "description": "道祖土小学校周辺の危険箇所をまとめよう",
-  "form_url": "",
+  "form_url": "https://docs.google.com/forms/d/e/1FAIpQLSdHr1r-S_s5MdkAGP2XRqa-gwzmPAg1DfEUvWMuGLkMSLDmgA/viewform?usp=sf_link",
   "logo_image_url": "https://raw.githubusercontent.com/meguro-ta/anzen-map/70346143e1972db4e11daae9ea07166176264046/kousho.svg",
   "background_image_url": "https://github.com/meguro-ta/anzen-map/blob/master/233941_02-01urawa.jpg?raw=true",
   "primary_color": "#d2691e"
